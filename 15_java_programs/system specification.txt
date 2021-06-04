@@ -1,0 +1,22 @@
+
+
+
+system specification:::::processor speed and architecture
+clock speed-speed of a computer processor chip-GHZ-ex:Intel
+
+cache - speed 
+
+ram(gb)-
+
+grahpic system-on  mother board
+
+hard drive sppeed and capacity--os program - 
+    1.rotation velocity of physical disk itself
+     2.interface used to connect it to the computer's motheroard
+           three type of interface-
+                 sata
+                  ide
+
+                   serial avance technology
+
+io ports
