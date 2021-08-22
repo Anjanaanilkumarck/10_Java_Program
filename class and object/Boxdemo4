@@ -1,0 +1,22 @@
+class Box4
+{ 
+    double height; 
+    double depth; 
+    double width; 
+    double volume() 
+    { 
+        return height * depth * width; 
+        
+    } 
+    void SetDim(double h, double w, double d)
+    { 
+        height = h;
+        depth = d; 
+        width = w; 
+        
+    }
+    
+} 
+public class Boxdemo3{ 
+    public static void main(String[] args)
+{
