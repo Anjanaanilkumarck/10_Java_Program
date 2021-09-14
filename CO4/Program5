@@ -63,3 +63,24 @@ public class ThreadClass {
         pObj.start();
     }
 }
+
+Output:
+Enter the number for multiplication table:5
+Enter the limit for prime numbers:5
+The prime number upto 5 is:
+2
+3
+5
+7
+11
+Multiplication table of 5:
+1*5=5
+2*5=10
+3*5=15
+4*5=20
+5*5=25
+6*5=30
+7*5=35
+8*5=40
+9*5=45
+10*5=50
